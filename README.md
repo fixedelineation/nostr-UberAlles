@@ -1,1 +1,2 @@
 This chrome extension is designed to allow anyone to start a discussion or comment on anywebpage using nostr. It was built by robots mostly so it needs work.
+If you want to mess around with this download and unpack the zip file got chrome://extensions/ select developer mode and then click load unpack and select the folder to load the extension. enter nsec and hit save settings. reload the web page you want to try this on and it will ask you if you want to start a discussion( or join one if it already exists)
